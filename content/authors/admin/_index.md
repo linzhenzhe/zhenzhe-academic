@@ -16,7 +16,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=G5AHhdEAAAAJ&hl=en
   - icon: linkedin
-    icon_pack: brand
+    icon_pack: fab
     link: https://www.linkedin.com/in/zhenzhe-lin-382334135/
   - icon: github
     icon_pack: fab
