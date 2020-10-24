@@ -9,12 +9,12 @@ interests:
   - Internet of Things
   - Smart Healthcare
 social:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=G5AHhdEAAAAJ&hl=en
   - icon: envelope
     icon_pack: fas
     link: <a href = "zl437@scarletmail.rutgers.edu">Send Email</a>
+  - icon: google-scholar
+    icon_pack: far
+    link: https://scholar.google.com/citations?user=G5AHhdEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/linzhenzhe
