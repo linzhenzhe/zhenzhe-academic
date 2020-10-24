@@ -17,20 +17,20 @@ organizations:
 bio: My research interests include smart healthcare, mobile computing and sensing, IoT.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mobile Computing & Sensing
+- Internet of Things
+- Smart Healthcare
 
 education:
   courses:
   - course: PhD in Electrical & Computer Engineering
-    institution: Rutgers University, New Brunswick, NJ, USA
+    institution: Rutgers University, New Brunswick
     year: 2019 - Present
   - course: MS in Electrical Engineering
-    institution: New Jersey Institute of Technology, Newark, NJ, USA
+    institution: New Jersey Institute of Technology
     year: 2016 - 2018
   - course: BSc in Electrical Engineering
-    institution: Dalian Maritime University, Dalian, China
+    institution: Dalian Maritime University
     year: 2012 - 2016
 
 # Social/Academic Networking
