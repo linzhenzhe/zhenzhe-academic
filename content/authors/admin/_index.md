@@ -9,8 +9,8 @@ interests:
   - Internet of Things
   - Smart Healthcare
 social:
-  - icon: google scholar
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=G5AHhdEAAAAJ&hl=en
   - icon: envelope
     icon_pack: fas
