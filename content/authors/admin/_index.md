@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: <a href = "zl437@scarletmail.rutgers.edu">Send Email</a>
+    link: mailto:zl437@scarletmail.rutgers.edu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=G5AHhdEAAAAJ&hl=en
