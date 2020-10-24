@@ -5,16 +5,16 @@ avatar_filename: avatar.jpg
 bio: My research interests include smart healthcare, mobile computing and
   sensing, IoT.
 interests:
-  - Mobile Computing & Sensing
+  - Mobile Computing
   - Internet of Things
   - Smart Healthcare
 social:
+  - icon: google scholar
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=G5AHhdEAAAAJ&hl=en
   - icon: envelope
     icon_pack: fas
-    link: zl437@scarletmail.rutgers.edu
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=G5AHhdEAAAAJ&hl=en
+    link: <a href = "zl437@scarletmail.rutgers.edu">Send Email</a>
   - icon: github
     icon_pack: fab
     link: https://github.com/linzhenzhe
@@ -29,7 +29,7 @@ education:
     - course: MS in Electrical Engineering
       institution: New Jersey Institute of Technology, Newark
       year: 2016 - 2018
-    - course: BSc in Electrical Engineering
+    - course: BS in Electrical Engineering
       institution: Dalian Maritime University, China
       year: 2012 - 2016
 email: zl437@scarletmail.rutgers.edu
