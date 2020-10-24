@@ -1,7 +1,7 @@
 ---
 title: Zhenzhe Lin
-role: "Graduate Student "
-avatar_filename: ""
+role: "Graduate Student  "
+avatar_filename: avatar.jpg
 bio: My research interests include smart healthcare, mobile computing and
   sensing, IoT.
 interests:
