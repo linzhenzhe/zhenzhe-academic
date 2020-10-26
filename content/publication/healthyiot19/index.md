@@ -1,6 +1,5 @@
 ---
 title: "WiFi-Enabled Automatic Eating Moment Monitoring Using Smartphones"
-subtitle: Best Paper Award
 authors:
 - Zhenzhe Lin
 - Yucheng Xie
