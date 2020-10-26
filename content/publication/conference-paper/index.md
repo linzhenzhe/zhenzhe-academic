@@ -1,13 +1,17 @@
 ---
-title: "An example conference paper"
+title: "WiEat: Fine-grained Device-free Eating Monitoring Leveraging Wi-Fi Signals"
 authors:
-- admin
-- Robert Ford
+- Zhenzhe Lin
+- Yucheng Xie
+- Xiaonan Guo
+- Yanzhi Ren
+- Yingying Chen
+- Chen Wang
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "10.1109/ICCCN49398.2020.9209628"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-08-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *2020 29th International Conference on Computer Communications and Networks (ICCCN)*
+publication_short: In *ICCCN 2020*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Eating well plays a key role in people’s overall health and wellbeing. Studies have shown that many health-related problems such as obesity, diabetes and anemia are closely associated with people’s unhealthy eating habits (e.g., skipping meals, eating irregularly and overeating). Thus, keeping track of diet is becoming more important. Traditional eating monitoring solutions relying on self-report remain an onerous task, while the recent trends requiring users to wear dedicated yet expensive hardware are cumbersome. To overcome these limitations, in this paper, we develop a device-free eating monitoring system using WiFi-enabled devices (e.g., smartphone or laptop). Our system aims to automatically monitor users’ eating activities by identifying the fine-grained eating motions and detecting the minute movements during chewing and swallowing. In particular, our system distinguishes eating from non-eating activities by using K-means clustering with principal component analysis on the extracted Channel State Information (CSI) from WiFi signals. It further adopts a soft decision-based eating motion classification through identifying the utensils (e.g., using a folk, knife, spoon or bare hands) in use. Moreover, we propose a minute motion reconstruction method to identify chewing and swallowing through detecting users’ minute facial muscle movements. The derived fine-grained eating monitoring results are beneficial to the understanding of users’ eating behaviors and estimation of food intake types and amounts. Extensive experiments with 20 users over 1600-minute eating show that the proposed system can recognize the user’s eating motions with up to 95% accuracy and estimate the chewing and swallowing amount within 10% percentage error.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
