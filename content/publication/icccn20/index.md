@@ -1,7 +1,7 @@
 ---
 title: "WiEat: Fine-grained Device-free Eating Monitoring Leveraging Wi-Fi Signals"
 authors:
-- [Zhenzhe Lin]
+- **Zhenzhe Lin**
 - Yucheng Xie
 - Xiaonan Guo
 - Yanzhi Ren

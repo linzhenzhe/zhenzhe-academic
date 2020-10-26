@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 6th EAI International Conference on IoT Technologies for HealthCare*
-publication_short: In *HealthyIoT 2019* [Best Paper Award]
+publication_short: In *HealthyIoT 2019* 
 
 abstract: Dietary habits are closely correlated with people’s health. Study reveals that unhealthy eating habits may cause various diseases such as obesity, diabetes and anemia. To help users create good eating habits, eating moment monitoring plays a significant role. However, traditional methods mainly rely on manual self-report or wearable devices, which either require much user efforts or intrusive dedicated hardware. In this work, we propose a user effort-free eating moment monitoring system by leveraging the WiFi signals extracted from the commercial off-the-shelf (COTS) smartphones. In particular, our system captures the eating activities of users to determine the eating moments. The proposed system can further identify the fine-grained food intake gestures (e.g., eating with fork, knife, spoon, chopsticks and bard hand) to estimate the detailed eating episode for each food intake gesture. Utilizing the dietary information, our system shows the potential to infer the food category and food amount. Extensive experiments with 10 subjects over 400-min eating show that our system can recognize a user’s food intake gestures with up to 97.8% accuracy and estimate the dietary moment within 1.1-s error.
 
