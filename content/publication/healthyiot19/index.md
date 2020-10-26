@@ -1,13 +1,17 @@
 ---
-title: "An example conference paper"
+title: "WiFi-Enabled Automatic Eating Moment Monitoring Using Smartphones"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Zhenzhe Lin
+- Yucheng Xie
+- Xiaonan Guo
+- Chen Wang
+- Yanzhi Ren
+- Yingying Chen
+date: "2020-04-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-04-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,29 +20,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *EAI International Conference on IoT Technologies for HealthCare*
+publication_short: In *HealthyIoT 2019*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Dietary habits are closely correlated with people’s health. Study reveals that unhealthy eating habits may cause various diseases such as obesity, diabetes and anemia. To help users create good eating habits, eating moment monitoring plays a significant role. However, traditional methods mainly rely on manual self-report or wearable devices, which either require much user efforts or intrusive dedicated hardware. In this work, we propose a user effort-free eating moment monitoring system by leveraging the WiFi signals extracted from the commercial off-the-shelf (COTS) smartphones. In particular, our system captures the eating activities of users to determine the eating moments. The proposed system can further identify the fine-grained food intake gestures (e.g., eating with fork, knife, spoon, chopsticks and bard hand) to estimate the detailed eating episode for each food intake gesture. Utilizing the dietary information, our system shows the potential to infer the food category and food amount. Extensive experiments with 10 subjects over 400-min eating show that our system can recognize a user’s food intake gestures with up to 97.8% accuracy and estimate the dietary moment within 1.1-s error.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: "paper/WiFi-enabled_Automatic_Eating_Moment_Monitoring_Using_Smartphones.pdf"
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
