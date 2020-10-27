@@ -42,4 +42,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I am a 2nd-year Ph.D. student in the [Department of Electrical Engineering & Computer Science](https://www.ece.rutgers.edu/) at [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu/).
+I am a **2nd-year** Ph.D. student in the [Department of Electrical Engineering & Computer Science](https://www.ece.rutgers.edu/) at [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu/).
