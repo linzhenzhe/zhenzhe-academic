@@ -8,7 +8,8 @@ title: Recent & Upcoming Talks
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
+header: 
   caption: ""
-  image: ""
+
 ---
+[Sep 2020] Our paper **WiEat: Fine-grained Device-free Eating Monitoring Leveraging Wi-Fi Signals** has been accepted to ICCCN 2020!
