@@ -1,14 +1,12 @@
 ---
 title: "WiEat: Fine-grained Device-free Eating Monitoring Leveraging Wi-Fi Signals"
-# authors:
-# - 'Zhenzhe Lin*'
-# - Yucheng Xie
-# - Xiaonan Guo
-# - Yanzhi Ren
-# - Yingying Chen
-# - Chen Wang
-
-authors = ['Zhenzhe Lin*', 'Yucheng Xie', 'Xiaonan Guo', 'Yanzhi Ren', 'Yingying Chen', 'Chen Wang']
+authors:
+- Zhenzhe Lin
+- Yucheng Xie
+- Xiaonan Guo
+- Yanzhi Ren
+- Yingying Chen
+- Chen Wang
 
 date: "2020-08-03T00:00:00Z"
 doi: "10.1109/ICCCN49398.2020.9209628"
