@@ -16,7 +16,6 @@ title: News
 subtitle:
 
 design:
-  columns: "1"
   view: "2"
 ---
 
